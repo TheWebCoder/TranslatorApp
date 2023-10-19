@@ -1,0 +1,15 @@
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\bin\Debug\net7.0\TranslatorApp.exe
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\bin\Debug\net7.0\TranslatorApp.deps.json
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\bin\Debug\net7.0\TranslatorApp.runtimeconfig.json
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\bin\Debug\net7.0\TranslatorApp.dll
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\bin\Debug\net7.0\TranslatorApp.pdb
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\TranslatorApp.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\TranslatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\TranslatorApp.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\TranslatorApp.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\TranslatorApp.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\TranslatorApp.dll
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\refint\TranslatorApp.dll
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\TranslatorApp.pdb
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\TranslatorApp.genruntimeconfig.cache
+C:\Users\bryan\OneDrive\Documents\GitHub\TranslatorApp\TranslatorApp\obj\Debug\net7.0\ref\TranslatorApp.dll
